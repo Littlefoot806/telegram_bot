@@ -1,0 +1,21 @@
+{
+  "update_id": 262360765,
+  "message": {
+    "message_id": 11,
+    "from": {
+      "id": 211507050,
+      "is_bot": false,
+      "first_name": "Littlefoot",
+      "last_name": "++",
+      "language_code": "ru"
+    },
+    "chat": {
+      "id": 211507050,
+      "first_name": "Littlefoot",
+      "last_name": "++",
+      "type": "private"
+    },
+    "date": 1545578281,
+    "text": "ss"
+  }
+}
